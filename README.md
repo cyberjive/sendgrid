@@ -20,11 +20,11 @@ python -m pip install -r requirements.txt
 Note the dummy values in the code and follow the instructions from the post for how to populate them.
 
 Run the various scripts via the CLI or your IDE of choice:
-*send_email.py
-*send_html.py
-*send_dynamic.py
-*get_send_data.py
-*email_send_data.py
+* send_email.py
+* send_html.py
+* send_dynamic.py
+* get_send_data.py
+* email_send_data.py
 
 
 Command Line:
